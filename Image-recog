@@ -1,0 +1,6 @@
+# Import the packages required for the project.
+# Read the images or videos for processing.
+# Image processing methods and implementation of recognizing and counting the no of people in the image.
+# Clustering the images according to facial features.
+# Comparing two images and recognizing.
+# Pulling out the data and stats on people.
